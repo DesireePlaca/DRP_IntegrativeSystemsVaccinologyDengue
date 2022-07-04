@@ -1,5 +1,6 @@
 # DRP_IntegrativeSystemsVaccinologyDengue
 
+Analysis notebooks for "Integrative systems vaccinology identification of shared gene signatures between natural dengue infection and vaccination trials", Plaça, DR et. al. 2022
 Codes include R scripts used in this manuscript
 
 Abstract
